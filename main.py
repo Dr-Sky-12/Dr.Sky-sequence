@@ -40,7 +40,7 @@ a = str(input("data to search : "))
 
 # I named the following code as Paul's sky sequence1
 
-i = [x for x in range(0,len(xn))]
+i = [x for x in range(0,len(x1))]
 i2 = [x for x in range(0,len(load))]
 
 for new in i2:
