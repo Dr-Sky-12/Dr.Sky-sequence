@@ -9,7 +9,7 @@ import numpy as np
 
 googleSheetId = "sheetid"
 worksheetName = "sheet name"
-URL = "type google sheet url with output as csv ".format(
+URL = "type google sheet url ".format(
 	googleSheetId,
 	worksheetName
 )
