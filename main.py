@@ -1,6 +1,6 @@
 #this code of mine is useful to extract, search and analyze data from google sheets ( google forms) . This is just a skeleton you can convert list to set to find common terms and likewise muchmore improvisations can be done 
 #thanksfrvisitingdec2020
-
+#make sure to publish ur google shhet as csv & make sure that ur console has modules to connect to server (programiz online console has it all)
 
 import pandas as  pd
 import numpy as np
