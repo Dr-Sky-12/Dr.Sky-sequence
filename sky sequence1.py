@@ -28,7 +28,7 @@ x5 = df.coloumn5.to_list()
 x6 = df.coloumn6.to_list()
 x7 = df.coloumn7.to_list()
 
-code = ["j","p","b","l","u","e","12"]
+code = ["j","p","l","o","v","e","12"]
 load = [x1,x2,x3,x4,x5,x6,x7]
 
 
